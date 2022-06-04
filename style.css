@@ -1,0 +1,28 @@
+thead{
+    font-size: 20px;
+}
+
+td,th{
+    padding: 5px 10px;
+}
+
+td{
+    font-size: 18px;
+}
+
+button{
+    float: right;
+}
+
+.not_watched{
+    background-color: #F8D7DA;
+}
+
+.watched{
+    background-color: #D1E7DD;
+}
+
+input[type='checkbox']{
+    transform: scale(1.6);
+    border-radius: 5px;
+}
